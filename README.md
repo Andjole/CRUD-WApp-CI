@@ -5,3 +5,5 @@ Assets
 - Bootstrap
 - JQuery
 Framework Codeigniter
+
+Demo: http://wireapp.it/CRUD_App_CI/
